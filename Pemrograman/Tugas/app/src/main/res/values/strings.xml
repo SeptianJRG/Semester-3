@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string-array name="umur">
+        <item>di bawah 12 bulan</item>
+        <item>1 - 6 tahun</item>
+        <item>7 - 12 tahun</item>
+    </string-array>
+</resources>
